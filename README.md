@@ -10,3 +10,10 @@ Day 5 - Solution for - https://leetcode.com/problems/number-of-employees-who-met
         Solution for - https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
 Day 6 - Solution for - https://leetcode.com/problems/score-of-a-string/description/
+
+Day 7 - 
+
+Day 8 - Skipped
+Day 9 - Skipped
+Day 10 - Solution for - https://leetcode.com/problems/find-common-characters/
+
