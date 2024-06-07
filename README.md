@@ -20,3 +20,5 @@ Day 10 - Solution for - https://leetcode.com/problems/find-common-characters/
 
 Day 11 - Solution for - https://leetcode.com/problems/find-words-containing-character/
          Solution for - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
+
+Day 12 - Solution for - https://leetcode.com/problems/minimum-number-game/
