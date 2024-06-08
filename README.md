@@ -22,3 +22,7 @@ Day 11 - Solution for - https://leetcode.com/problems/find-words-containing-char
          Solution for - https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 
 Day 12 - Solution for - https://leetcode.com/problems/minimum-number-game/
+
+Day 13 - Solution for - https://leetcode.com/problems/defanging-an-ip-address/
+        Solution for - https://leetcode.com/problems/jewels-and-stones/
+        Solution for - https://leetcode.com/problems/permutation-difference-between-two-strings/
