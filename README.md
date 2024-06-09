@@ -26,3 +26,6 @@ Day 12 - Solution for - https://leetcode.com/problems/minimum-number-game/
 Day 13 - Solution for - https://leetcode.com/problems/defanging-an-ip-address/
         Solution for - https://leetcode.com/problems/jewels-and-stones/
         Solution for - https://leetcode.com/problems/permutation-difference-between-two-strings/
+
+Day 14 - Solution for - https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
+        Solution for - https://leetcode.com/problems/goal-parser-interpretation/
