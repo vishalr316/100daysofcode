@@ -31,3 +31,6 @@ Day 14 - Solution for - https://leetcode.com/problems/check-if-a-string-is-an-ac
         Solution for - https://leetcode.com/problems/goal-parser-interpretation/
 
 Day 15 - Solution for - https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+
+Day 16 - Solution for - https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+        Solution for - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
