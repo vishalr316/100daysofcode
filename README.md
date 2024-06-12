@@ -34,3 +34,6 @@ Day 15 - Solution for - https://leetcode.com/problems/maximum-number-of-words-fo
 
 Day 16 - Solution for - https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
         Solution for - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+
+Day 17 - Solution for - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+        Solution for - https://leetcode.com/problems/xor-operation-in-an-array/
