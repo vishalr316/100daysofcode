@@ -37,3 +37,6 @@ Day 16 - Solution for - https://leetcode.com/problems/widest-vertical-area-betwe
 
 Day 17 - Solution for - https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
         Solution for - https://leetcode.com/problems/xor-operation-in-an-array/
+
+Day 18 - Solution for - https://leetcode.com/problems/truncate-sentence/
+        Solution for - https://leetcode.com/problems/reverse-prefix-of-word/
