@@ -40,3 +40,7 @@ Day 17 - Solution for - https://leetcode.com/problems/subtract-the-product-and-s
 
 Day 18 - Solution for - https://leetcode.com/problems/truncate-sentence/
         Solution for - https://leetcode.com/problems/reverse-prefix-of-word/
+
+Day 19 - Solution for - https://leetcode.com/problems/number-of-good-pairs/
+        Solution for - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+        Solution for - https://leetcode.com/problems/shuffle-the-array/
