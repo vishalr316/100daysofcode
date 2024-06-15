@@ -44,3 +44,8 @@ Day 18 - Solution for - https://leetcode.com/problems/truncate-sentence/
 Day 19 - Solution for - https://leetcode.com/problems/number-of-good-pairs/
         Solution for - https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
         Solution for - https://leetcode.com/problems/shuffle-the-array/
+
+Day 20 - Solution for - https://leetcode.com/problems/length-of-last-word/description/
+        Solution for - https://leetcode.com/problems/to-lower-case/
+        Solution for - https://leetcode.com/problems/sign-of-the-product-of-an-array/
+        Solution for - https://leetcode.com/problems/roman-to-integer/
