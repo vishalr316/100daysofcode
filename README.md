@@ -49,3 +49,5 @@ Day 20 - Solution for - https://leetcode.com/problems/length-of-last-word/descri
         Solution for - https://leetcode.com/problems/to-lower-case/
         Solution for - https://leetcode.com/problems/sign-of-the-product-of-an-array/
         Solution for - https://leetcode.com/problems/roman-to-integer/
+
+Day 21 - Solution for - https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
