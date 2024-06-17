@@ -51,3 +51,6 @@ Day 20 - Solution for - https://leetcode.com/problems/length-of-last-word/descri
         Solution for - https://leetcode.com/problems/roman-to-integer/
 
 Day 21 - Solution for - https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
+
+Day 22 - Solution for - https://leetcode.com/problems/shuffle-string/
+        Solution for - https://leetcode.com/problems/count-items-matching-a-rule/
