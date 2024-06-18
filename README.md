@@ -54,3 +54,5 @@ Day 21 - Solution for - https://leetcode.com/problems/count-pairs-that-form-a-co
 
 Day 22 - Solution for - https://leetcode.com/problems/shuffle-string/
         Solution for - https://leetcode.com/problems/count-items-matching-a-rule/
+
+Day 23 - Solution for - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
