@@ -56,3 +56,5 @@ Day 22 - Solution for - https://leetcode.com/problems/shuffle-string/
         Solution for - https://leetcode.com/problems/count-items-matching-a-rule/
 
 Day 23 - Solution for - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+
+Day 24 - Solution for - https://leetcode.com/problems/sorting-the-sentence/
