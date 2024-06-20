@@ -58,3 +58,7 @@ Day 22 - Solution for - https://leetcode.com/problems/shuffle-string/
 Day 23 - Solution for - https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 
 Day 24 - Solution for - https://leetcode.com/problems/sorting-the-sentence/
+
+Day 25 - Solution for - https://leetcode.com/problems/richest-customer-wealth/
+        Solution for - https://leetcode.com/problems/sum-of-all-subset-xor-totals/
+        Solution for - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
