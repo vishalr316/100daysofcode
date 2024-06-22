@@ -64,3 +64,6 @@ Day 25 - Solution for - https://leetcode.com/problems/richest-customer-wealth/
         Solution for - https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 Day 26 - Solution for - https://leetcode.com/problems/decode-the-message/
+
+Day 27 - Solution for - https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+        Participated in bi-weekly contest
