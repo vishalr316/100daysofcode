@@ -67,3 +67,5 @@ Day 26 - Solution for - https://leetcode.com/problems/decode-the-message/
 
 Day 27 - Solution for - https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
         Participated in bi-weekly contest
+
+Day 28 - Participated in weekly contest and worked on website
