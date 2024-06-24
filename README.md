@@ -69,3 +69,5 @@ Day 27 - Solution for - https://leetcode.com/problems/count-odd-numbers-in-an-in
         Participated in bi-weekly contest
 
 Day 28 - Participated in weekly contest and worked on website
+
+Day 29 - Solution for - https://leetcode.com/problems/two-sum/
