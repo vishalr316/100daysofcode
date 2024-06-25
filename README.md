@@ -71,3 +71,5 @@ Day 27 - Solution for - https://leetcode.com/problems/count-odd-numbers-in-an-in
 Day 28 - Participated in weekly contest and worked on website
 
 Day 29 - Solution for - https://leetcode.com/problems/two-sum/
+
+Day 30 - Solution for - https://leetcode.com/problems/repeated-substring-pattern
