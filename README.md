@@ -76,3 +76,5 @@ Day 30 - Solution for - https://leetcode.com/problems/repeated-substring-pattern
 
 Day 31 - Solution for - https://leetcode.com/problems/baseball-game/
         Solution for - https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
+Day 32 - Solution for - https://leetcode.com/problems/monotonic-array/
