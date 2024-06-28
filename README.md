@@ -78,3 +78,6 @@ Day 31 - Solution for - https://leetcode.com/problems/baseball-game/
         Solution for - https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 
 Day 32 - Solution for - https://leetcode.com/problems/monotonic-array/
+
+Day 33 - Solution for - https://leetcode.com/problems/lemonade-change/
+        Solution for - https://leetcode.com/problems/largest-perimeter-triangle/
