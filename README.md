@@ -81,3 +81,7 @@ Day 32 - Solution for - https://leetcode.com/problems/monotonic-array/
 
 Day 33 - Solution for - https://leetcode.com/problems/lemonade-change/
         Solution for - https://leetcode.com/problems/largest-perimeter-triangle/
+
+Day 34 - No updates! 
+
+Day 35 - Solution for - https://leetcode.com/problems/robot-return-to-origin/
