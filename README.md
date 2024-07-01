@@ -85,3 +85,5 @@ Day 33 - Solution for - https://leetcode.com/problems/lemonade-change/
 Day 34 - No updates! 
 
 Day 35 - Solution for - https://leetcode.com/problems/robot-return-to-origin/
+
+Day 36 - Solution for  - https://leetcode.com/problems/find-the-number-of-good-pairs-i/
