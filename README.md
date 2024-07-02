@@ -87,3 +87,6 @@ Day 34 - No updates!
 Day 35 - Solution for - https://leetcode.com/problems/robot-return-to-origin/
 
 Day 36 - Solution for  - https://leetcode.com/problems/find-the-number-of-good-pairs-i/
+
+Day 37 - Solution for - https://leetcode.com/problems/count-asterisks/
+        Solution for - https://leetcode.com/problems/check-if-the-sentence-is-pangram/
