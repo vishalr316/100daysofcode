@@ -90,3 +90,5 @@ Day 36 - Solution for  - https://leetcode.com/problems/find-the-number-of-good-p
 
 Day 37 - Solution for - https://leetcode.com/problems/count-asterisks/
         Solution for - https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+
+Day 38 - Solution for - https://leetcode.com/problems/find-the-highest-altitude/
