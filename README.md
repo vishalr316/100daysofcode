@@ -92,3 +92,10 @@ Day 37 - Solution for - https://leetcode.com/problems/count-asterisks/
         Solution for - https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
 Day 38 - Solution for - https://leetcode.com/problems/find-the-highest-altitude/
+
+Day 39 - Skipped
+
+Day 40 - Solution for - https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+        Solution for - https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+        Solution for - https://leetcode.com/problems/replace-all-digits-with-characters/
+        Solution for - https://leetcode.com/problems/sort-the-people/
