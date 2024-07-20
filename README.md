@@ -99,3 +99,6 @@ Day 40 - Solution for - https://leetcode.com/problems/maximum-product-difference
         Solution for - https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
         Solution for - https://leetcode.com/problems/replace-all-digits-with-characters/
         Solution for - https://leetcode.com/problems/sort-the-people/
+
+--- HAD A GAP OF 14 DAYS DUE TO VACATION. STARTED AGAIN FROM 20-JULY-24 ---
+Day 41 - Solution for - https://leetcode.com/contest/biweekly-contest-135/problems/find-the-winning-player-in-coin-game/
