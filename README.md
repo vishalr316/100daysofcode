@@ -102,3 +102,5 @@ Day 40 - Solution for - https://leetcode.com/problems/maximum-product-difference
 
 --- HAD A GAP OF 14 DAYS DUE TO VACATION. STARTED AGAIN FROM 20-JULY-24 ---
 Day 41 - Solution for - https://leetcode.com/contest/biweekly-contest-135/problems/find-the-winning-player-in-coin-game/
+
+Day 42 - Solution for - https://leetcode.com/contest/weekly-contest-407/problems/number-of-bit-changes-to-make-two-integers-equal/
