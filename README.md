@@ -104,3 +104,6 @@ Day 40 - Solution for - https://leetcode.com/problems/maximum-product-difference
 Day 41 - Solution for - https://leetcode.com/contest/biweekly-contest-135/problems/find-the-winning-player-in-coin-game/
 
 Day 42 - Solution for - https://leetcode.com/contest/weekly-contest-407/problems/number-of-bit-changes-to-make-two-integers-equal/
+
+Day 43 - Solution for - https://leetcode.com/problems/single-number/
+        Solution for - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
