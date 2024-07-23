@@ -107,3 +107,5 @@ Day 42 - Solution for - https://leetcode.com/contest/weekly-contest-407/problems
 
 Day 43 - Solution for - https://leetcode.com/problems/single-number/
         Solution for - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+
+Day 44 - Solution for - https://leetcode.com/problems/maximum-odd-binary-number/
