@@ -109,3 +109,5 @@ Day 43 - Solution for - https://leetcode.com/problems/single-number/
         Solution for - https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 Day 44 - Solution for - https://leetcode.com/problems/maximum-odd-binary-number/
+
+Day 45 - Solution for - https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/
