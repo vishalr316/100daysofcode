@@ -111,3 +111,10 @@ Day 43 - Solution for - https://leetcode.com/problems/single-number/
 Day 44 - Solution for - https://leetcode.com/problems/maximum-odd-binary-number/
 
 Day 45 - Solution for - https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/
+
+Day 46 - Skipped.
+
+Day 47 - Solution for - https://leetcode.com/problems/decode-xored-array/description/
+
+Day 48 - Solution for - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/
+	Solution for - https://leetcode.com/problems/subrectangle-queries/description/
