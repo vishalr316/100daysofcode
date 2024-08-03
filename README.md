@@ -118,3 +118,7 @@ Day 47 - Solution for - https://leetcode.com/problems/decode-xored-array/descrip
 
 Day 48 - Solution for - https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/
 	Solution for - https://leetcode.com/problems/subrectangle-queries/description/
+
+Skipped from July 29 to Aug 2. Continuing the day count from previous value
+
+Day 49 - Solution for - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
