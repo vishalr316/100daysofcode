@@ -122,3 +122,7 @@ Day 48 - Solution for - https://leetcode.com/problems/find-the-original-array-of
 Skipped from July 29 to Aug 2. Continuing the day count from previous value
 
 Day 49 - Solution for - https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+
+Day 50 - Learnt Selection sort
+
+Day 51 - Learnt how to make normal selection sort (unstable) to stable selection sort.
